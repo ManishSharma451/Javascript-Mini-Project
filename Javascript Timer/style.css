@@ -1,0 +1,18 @@
+.clock{
+    width:400px;
+    border:2px solid;
+	text-align:center;
+	margin-left:36%;
+	background:skyblue;
+	 }
+ h1{
+    display:inline-block;
+	 }
+.clock-btn{
+	padding-bottom:10px;}
+#stop{
+	color:red;
+	 }
+h2{
+	 text-align:center;
+	 }
